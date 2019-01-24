@@ -1,5 +1,7 @@
 /*
-   ESP32 FastLED WebServer: https://github.com/jasoncoon/esp32-fastled-webserver
+   Modifed 2019 by Jeremy Spencer
+   
+   Ported from ESP32 FastLED WebServer: https://github.com/jasoncoon/esp32-fastled-webserver
    Copyright (C) 2017 Jason Coon
 
    Built upon the amazing FastLED work of Daniel Garcia and Mark Kriegsman:

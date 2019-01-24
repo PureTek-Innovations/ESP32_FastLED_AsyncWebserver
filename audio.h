@@ -1,9 +1,14 @@
+/*
+   Modifed 2019 by Jeremy Spencer
+   
+   Ported from ESP32 FastLED WebServer: https://github.com/jasoncoon/esp32-fastled-webserver
+   Copyright (C) 2017 Jason Coon
 
+   Built upon the amazing FastLED work of Daniel Garcia and Mark Kriegsman:
+   https://github.com/FastLED/FastLED
 
-
-/* Ported from:
-   ESP8266 + FastLED + IR Remote: https://github.com/jasoncoon/esp8266-fastled-audio
-   Copyright (C) 2015-2016 Jason Coon
+   ESP32 support provided by the hard work of Sam Guyer:
+   https://github.com/samguyer/FastLED
 
    This program is free software: you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
